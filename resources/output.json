@@ -1,0 +1,18 @@
+[
+    {
+        "entity": "05261ebf-ab99-4173-b001-9effe0a10d90",
+        "metrics": {
+            "mask": "filepath:images/05261ebf-ab99-4173-b001-9effe0a10d90.tif",
+            "volumes": [
+                "0.37",
+                "0.06",
+                "0.27",
+                "0.30"
+            ],
+            "grade_group": 5,
+            "gleason_score": "5+4",
+            "normalized_image": "filepath:images/05261ebf-ab99-4173-b001-9effe0a10d90_normalized.tif"
+        },
+        "error_messages": []
+    }
+]
